@@ -1,0 +1,15 @@
+pylint
+black
+typing
+matplotlib
+pandas
+tqdm
+PyYAML
+scipy
+scikit-learn
+av
+pre-commit
+PyQt5
+protobuf
+torch>=1.8.0
+torchvision>=0.9.0
